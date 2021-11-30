@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "edwardsdl/sample-node"
+    "repository": "stasbaturin/sample-node"
   },
   "deploy": {
     "containerPort": 5000
